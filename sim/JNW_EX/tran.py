@@ -5,6 +5,10 @@ import yaml
 def main(name):
   # Delete next line if you want to use python post processing
   return
+  #import cicsim as cs
+  #fname = name +".png"
+  #print(f"Saving {fname}")
+  #cs.rawplot(name + ".raw","time","v(ibps_5u),i(v0)",ptype="",fname=fname)
   yamlfile = name + ".yaml"
 
   # Read result yaml file

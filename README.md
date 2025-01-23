@@ -11,6 +11,7 @@ ragnhihl
 # Why
 
 <explain why you made this module>
+This is me writing something in the readme-file for the first time. FUN!!
 
 # How
 
